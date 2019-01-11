@@ -23,6 +23,7 @@ RUN apt-get update \
     protobuf-compiler \
     python-pip \
     python-pdftools \
+    sqlite3 \
     tesseract-ocr-eng \
   && R CMD javareconf \
   && apt-get clean \
