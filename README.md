@@ -1,3 +1,6 @@
+In order to use this Docker container to teach the Data Carpentry in R lessons (specifically the R & Databases lesson) I needed to add sqlite3
+- Mark F. 2019
+
 rocker/ropensci
 ==================
 
